@@ -1,0 +1,55 @@
+.jumbotron{
+    background-image: url(city.jpg);
+    border-image-width: 60px;
+    background-size: contain;
+    width: 100%;
+    height: 300px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.card{
+        position: absolute;
+    top: 80px;
+    right: 5px;
+    width: 20%;
+    text-align: justify;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+    opacity: 0.6;
+    text-emphasis-color: white;
+}
+.card p {
+    font-size: 14px !important;
+}
+.card0{
+    padding: 10px;
+    border: 20px;
+    column-width: 10%;
+}
+.card1{
+    padding: 10px;
+    border: 20px;
+    column-width: 10%;
+}
+.card2{
+    padding: 10px;
+    border: 20px;
+    column-width: 10%;
+}
+.card3{
+    padding: 10px;
+    border: 20px;
+    column-width: 10%;
+}
+span{
+ color: lightblue;
+}
+.foot{
+    text-align: center;
+    color: black;
+    background-color: blue;
+    
+}
